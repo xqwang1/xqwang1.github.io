@@ -23,8 +23,7 @@ You can also find my articles on <u><a href="{{[author.googlescholar](https://sc
 
 **<font size="4.5"> Journal Articles </font>**
 
-* Scholand N, **Wang X**, Roeloffs V, Rosenzweig S, Uecker M. [Quantitative Magnetic Resonance Imaging by Nonlinear Inversion of the Bloch Equations
-.](https://arxiv.org/abs/2209.08027) **Magnetic Resonance in Medicine**, In Press. [[arxiv](https://arxiv.org/abs/2209.08027), [Code](https://github.com/mrirecon/bloch-moba), [Data](https://zenodo.org/record/6992763)]. 
+* Scholand N, **Wang X**, Roeloffs V, Rosenzweig S, Uecker M. [Quantitative Magnetic Resonance Imaging by Nonlinear Inversion of the Bloch Equations.](https://arxiv.org/abs/2209.08027) **Magnetic Resonance in Medicine**, In Press. [[arxiv](https://arxiv.org/abs/2209.08027), [Code](https://github.com/mrirecon/bloch-moba), [Data](https://zenodo.org/record/6992763)]. 
 
   <!-- **Keywords:** model-based reconstruction; sensitivity analysis; state-transition matrix; nonlinear inversion; Bloch equations; quantitative MRI -->
   
