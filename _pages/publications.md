@@ -42,7 +42,7 @@ author_profile: true
  
   <!-- * a robust self-gating technique extracting respiratory motion signal from contrast-weighted data acquisition;  -->
   <!-- * a calibrationless nonlinear model-based reconstruction for motion-resolved quantitative cardiovascular MR imaging.  -->
-* **Wang X**, Uecker M, Feng L. [Fast Real-Time Cardiac MRI: a Review of Current Techniques and Future Directions.](https://www.i-mri.org/DOIx.php?id=10.13104/imri.2021.25.4.252) **Investigative Magnetic Resonance Imaging**, 2021: 25:252-265. [[Open Access](https://www.i-mri.org/DOIx.php?id=10.13104/imri.2021.25.4.252)].
+* **Wang X**, Uecker M, Feng L. [Fast Real-Time Cardiac MRI: a Review of Current Techniques and Future Directions.](https://www.i-mri.org/DOIx.php?id=10.13104/imri.2021.25.4.252) **Investigative Magnetic Resonance Imaging**, 2021; 25: 252 - 265. [[Open Access](https://www.i-mri.org/DOIx.php?id=10.13104/imri.2021.25.4.252)].
   
   **Keywords:** Real-time cardiac MRI, GRAPPA, Iterative SENSE, NLINV, Non-Cartesian, Motion-resolved image reconstruction
 
@@ -50,19 +50,19 @@ author_profile: true
   
   **Keywords:** magnetic resonance imaging; model-based reconstruction; inverse problems
 
-* **Wang X**, Rosenzweig S, Scholand N, Holme HCM, Uecker U. [Model-based Reconstruction for Simultaneous Multi-slice T1 Mapping using Single-shot Inversion-recovery Radial FLASH.](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28497) **Magnetic Resonance in Medicine** 2021; 85:1258-1271. [[Open Access](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28497), [Code](https://github.com/mrirecon/sms-T1-mapping), [Data](https://zenodo.org/record/3969809)]. 
+* **Wang X**, Rosenzweig S, Scholand N, Holme HCM, Uecker U. [Model-based Reconstruction for Simultaneous Multi-slice T1 Mapping using Single-shot Inversion-recovery Radial FLASH.](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28497) **Magnetic Resonance in Medicine** 2021; 85: 1258 - 1271. [[Open Access](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28497), [Code](https://github.com/mrirecon/sms-T1-mapping), [Data](https://zenodo.org/record/3969809)]. 
   
   **Keywords:** T1 mapping; model-based reconstruction; radial FLASH; simultaneous multi-slice
 
-* Backhaus S, Lange T, Beuthner BE, Topci, **Wang X**, et al.. [Real-time Cardiac Magnetic Resonance T1 and Extracellular Volume Fraction mapping for Tissue Characterisation in Aortic Stenosis.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00632-0) **Journal of Cardiovascular Magnetic Resonance** 22:46 (2020) [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00632-0)]. 
+* Backhaus S, Lange T, Beuthner BE, Topci, **Wang X**, et al.. [Real-time Cardiac Magnetic Resonance T1 and Extracellular Volume Fraction mapping for Tissue Characterisation in Aortic Stenosis.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00632-0) **Journal of Cardiovascular Magnetic Resonance** 2020; 22:46. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00632-0)]. 
   
   **Keywords:** Real-Time; T1 mapping; aortic stenosis; transfemoral aortic valve replacement; tissue characterisation
 
-* **Wang X**, Kohler F, Unterberg-Buchwald C, Lotz J, Frahm J, Uecker M. [Model-based myocardial T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH cardiovascular magnetic resonance.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3) **Journal of Cardiovascular Magnetic Resonance** 2019; 21:60. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3), [Code](https://github.com/mrirecon/myocardial-t1-mapping), [Data](https://zenodo.org/record/3362387)]. 
+* **Wang X**, Kohler F, Unterberg-Buchwald C, Lotz J, Frahm J, Uecker M. [Model-based myocardial T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH cardiovascular magnetic resonance.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3) **Journal of Cardiovascular Magnetic Resonance** 2019; 21:60. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3), [Code](https://github.com/mrirecon/myocardial-t1-mapping), [Data](https://zenodo.org/record/3362387)]
   
   **Keywords:** model-based reconstruction; myocardial T1 mapping; sparsity constraints; radial FLASH
 
-* **Wang X**, Roeloffs V, Klosowski J, Tan Z, Voit D, Uecker M, Frahm J. [Model-based T1 Mapping with Sparsity Constraints Using Single-Shot Inversion-Recovery Radial FLASH.](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26726) **Magnetic Resonance in Medicine**  2018; 79:730-740. [[Free full text](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26726), [BART Demo](https://github.com/mrirecon/bart-workshop/blob/master/ismrm2021/model_based/bart_moba.ipynb)]. 
+* **Wang X**, Roeloffs V, Klosowski J, Tan Z, Voit D, Uecker M, Frahm J. [Model-based T1 Mapping with Sparsity Constraints Using Single-Shot Inversion-Recovery Radial FLASH.](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26726) **Magnetic Resonance in Medicine**  2018; 79: 730 - 740. [[Free full text](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26726), [BART Demo](https://github.com/mrirecon/bart-workshop/blob/master/ismrm2021/model_based/bart_moba.ipynb)]. 
   
   **Keywords:** model-based reconstruction; sparsity constraint; Look-Locker; T1 mapping; parallel imaging
 
