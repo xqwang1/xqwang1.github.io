@@ -21,11 +21,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<font size="4.5"> **Preprints** </font>
+**<font size="4.5"> Preprints </font>**
 
 * Jun Y, Cho J, **Wang X**, Gee M, Grant PE, Bilgic B, Gagoski B. [SSL-QALAS: Self-Supervised Learning for Rapid Multiparameter Estimation in Quantitative MRI Using 3D-QALAS.](https://arxiv.org/abs/2302.14240) Submitted. [[arxiv](https://arxiv.org/abs/2302.14240)]. 
 
-<font size="4.5"> **Journal Articles** </font>
+**<font size="4.5"> Journal Articles </font>**
 
 * Scholand N, **Wang X**, Roeloffs V, Rosenzweig S, Uecker M. [Quantitative Magnetic Resonance Imaging by Nonlinear Inversion of the Bloch Equations
 .](https://arxiv.org/abs/2209.08027) **Magnetic Resonance in Medicine**, In Press. [[arxiv](https://arxiv.org/abs/2209.08027), [Code](https://github.com/mrirecon/bloch-moba), [Data](https://zenodo.org/record/6992763)]. 
