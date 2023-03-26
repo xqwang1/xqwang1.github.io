@@ -11,15 +11,8 @@ author_profile: true
 }
 </style>
 
-<!-- {% if author.googlescholar %} -->
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.de/citations?user=99FdJPgAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
-<!-- {% endif %} -->
+You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.de/citations?user=99FdJPgAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
 
-<!-- {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
 
 **<font size="4.5"> Preprints </font>**
 
