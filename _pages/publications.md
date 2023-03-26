@@ -58,7 +58,7 @@ author_profile: true
   
   **Keywords:** Real-Time; T1 mapping; aortic stenosis; transfemoral aortic valve replacement; tissue characterisation
 
-* **Wang X**, Kohler F, Unterberg-Buchwald C, Lotz J, Frahm J, Uecker M. [Model-based myocardial T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH cardiovascular magnetic resonance.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3) **Journal of Cardiovascular Magnetic Resonance** 2019; 21:60. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3), [Code](https://github.com/mrirecon/myocardial-t1-mapping), [Data](https://zenodo.org/record/3362387)]
+* **Wang X**, Kohler F, Unterberg-Buchwald C, Lotz J, Frahm J, Uecker M. [Model-based Myocardial T1 Mapping with Sparsity Constraints Using Single-shot Inversion-recovery Radial FLASH Cardiovascular Magnetic Resonance.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3) **Journal of Cardiovascular Magnetic Resonance** 2019; 21:60. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3), [Code](https://github.com/mrirecon/myocardial-t1-mapping), [Data](https://zenodo.org/record/3362387)]
   
   **Keywords:** model-based reconstruction; myocardial T1 mapping; sparsity constraints; radial FLASH
 
