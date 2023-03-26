@@ -54,11 +54,11 @@ author_profile: true
   
   **Keywords:** T1 mapping; model-based reconstruction; radial FLASH; simultaneous multi-slice
 
-* Backhaus S, Lange T, Beuthner BE, Topci, **Wang X**, et al.. [Real-time Cardiac Magnetic Resonance T1 and Extracellular Volume Fraction mapping for Tissue Characterisation in Aortic Stenosis.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00632-0) **Journal of Cardiovascular Magnetic Resonance** 2020; 22:46. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00632-0)]. 
+* Backhaus S, Lange T, Beuthner BE, Topci, **Wang X**, et al.. [Real-time Cardiac Magnetic Resonance T1 and Extracellular Volume Fraction mapping for Tissue Characterisation in Aortic Stenosis.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00632-0) **Journal of Cardiovascular Magnetic Resonance** 2020; 22: 46. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00632-0)]. 
   
   **Keywords:** Real-Time; T1 mapping; aortic stenosis; transfemoral aortic valve replacement; tissue characterisation
 
-* **Wang X**, Kohler F, Unterberg-Buchwald C, Lotz J, Frahm J, Uecker M. [Model-based Myocardial T1 Mapping with Sparsity Constraints Using Single-shot Inversion-recovery Radial FLASH Cardiovascular Magnetic Resonance.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3) **Journal of Cardiovascular Magnetic Resonance** 2019; 21:60. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3), [Code](https://github.com/mrirecon/myocardial-t1-mapping), [Data](https://zenodo.org/record/3362387)]
+* **Wang X**, Kohler F, Unterberg-Buchwald C, Lotz J, Frahm J, Uecker M. [Model-based Myocardial T1 Mapping with Sparsity Constraints Using Single-shot Inversion-recovery Radial FLASH Cardiovascular Magnetic Resonance.](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3) **Journal of Cardiovascular Magnetic Resonance** 2019; 21: 60. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3), [Code](https://github.com/mrirecon/myocardial-t1-mapping), [Data](https://zenodo.org/record/3362387)]
   
   **Keywords:** model-based reconstruction; myocardial T1 mapping; sparsity constraints; radial FLASH
 
