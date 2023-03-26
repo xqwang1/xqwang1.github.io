@@ -5,15 +5,34 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.de/citations?user=99FdJPgAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
 
-{% include base_path %}
+<!-- {% if author.googlescholar %} -->
+  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.de/citations?user=99FdJPgAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
+<!-- {% endif %} -->
+
+<!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+---
+Preprints
+---
+* Jun Y, Cho J, **Wang X**, Gee M, Grant PE, Bilgic B*, Gagoski B*. [SSL-QALAS: Self-Supervised Learning for Rapid Multiparameter Estimation in Quantitative MRI Using 3D-QALAS.](https://arxiv.org/abs/2302.14240) Submitted. [[arxiv](https://arxiv.org/abs/2302.14240)]. 
+
+---
+Journal Articles
+---
+* Scholand N, **Wang X**, Roeloffs V, Rosenzweig S, Uecker M. [Quantitative Magnetic Resonance Imaging by Nonlinear Inversion of the Bloch Equations
+.](https://arxiv.org/abs/2209.08027) **Magnetic Resonance in Medicine**, In Press. [[arxiv](https://arxiv.org/abs/2209.08027), [Code](https://github.com/mrirecon/bloch-moba), [Data](https://zenodo.org/record/6992763)]. 
+
+  **Keywords:** model-based reconstruction; sensitivity analysis; state-transition matrix; nonlinear inversion; Bloch equations; quantitative MRI
   
 * **Wang X**, Rosenzweig S, Roeloffs V, Blumenthal M, Scholand N, Tan Z, Holme HCM, Unterberg-Buchwald C, Hinkel R, Uecker M. [Free-Breathing Myocardial T1 Mapping using Inversion-Recovery Radial FLASH and Motion-Resolved Model-Based Reconstruction.](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29521) **Magnetic Resonance in Medicine**, 2023; 89(4): 1368 - 1384. [[Open Access](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29521), [Code](https://github.com/mrirecon/motion-resolved-myocardial-T1-mapping), [Data](https://doi.org/10.5281/zenodo.5707688)]. 
   
@@ -53,5 +72,3 @@ author_profile: true
 * **Wang X**, Joseph AA, Kalentev O, et al.. [High-resolution myocardial T1 mapping using single-shot inversion recovery fast low-angle shot MRI with radial undersampling and iterative reconstruction.](https://www.birpublications.org/doi/full/10.1259/bjr.20160255) **British Journal of Radiology**, 2016; 89: 20160255. [[Open Access](https://www.birpublications.org/doi/full/10.1259/bjr.20160255)]. 
   
   **Keywords:** iterative reconstruction; radial undersampling; myocardial T1 mapping; FLASH
-
-
