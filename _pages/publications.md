@@ -23,7 +23,7 @@ author_profile: true
 
 **Preprints**
 
-* Jun Y, Cho J, **Wang X**, Gee M, Grant PE, Bilgic B*, Gagoski B*. [SSL-QALAS: Self-Supervised Learning for Rapid Multiparameter Estimation in Quantitative MRI Using 3D-QALAS.](https://arxiv.org/abs/2302.14240) Submitted. [[arxiv](https://arxiv.org/abs/2302.14240)]. 
+* Jun Y, Cho J, **Wang X**, Gee M, Grant PE, Bilgic B, Gagoski B. [SSL-QALAS: Self-Supervised Learning for Rapid Multiparameter Estimation in Quantitative MRI Using 3D-QALAS.](https://arxiv.org/abs/2302.14240) Submitted. [[arxiv](https://arxiv.org/abs/2302.14240)]. 
 
 **Journal Articles**
 
