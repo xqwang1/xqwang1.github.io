@@ -46,7 +46,7 @@ author_profile: true
   
   **Keywords:** Real-time cardiac MRI, GRAPPA, Iterative SENSE, NLINV, Non-Cartesian, Motion-resolved image reconstruction
 
-* **Wang X**, Tan Z, Scholand N, Roeloffs V, Uecker M. [Physics-based reconstruction methods for magnetic resonance imaging.](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0196) **Philosophical Transactions of the Royal Society A**, 2021: 379 (2200), 20200196. [[Open Access](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0196), [Code](https://github.com/mrirecon/physics-recon), [Data](https://zenodo.org/record/4381986)]. 
+* **Wang X**, Tan Z, Scholand N, Roeloffs V, Uecker M. [Physics-based Reconstruction Methods for Magnetic Resonance Imaging.](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0196) **Philosophical Transactions of the Royal Society A**, 2021: 379 (2200), 20200196. [[Open Access](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0196), [Code](https://github.com/mrirecon/physics-recon), [Data](https://zenodo.org/record/4381986)]. 
   
   **Keywords:** magnetic resonance imaging; model-based reconstruction; inverse problems
 
@@ -67,6 +67,6 @@ author_profile: true
   **Keywords:** model-based reconstruction; sparsity constraint; Look-Locker; T1 mapping; parallel imaging
 
 
-* **Wang X**, Joseph AA, Kalentev O, et al.. [High-resolution myocardial T1 mapping using single-shot inversion recovery fast low-angle shot MRI with radial undersampling and iterative reconstruction.](https://www.birpublications.org/doi/full/10.1259/bjr.20160255) **British Journal of Radiology**, 2016; 89: 20160255. [[Open Access](https://www.birpublications.org/doi/full/10.1259/bjr.20160255)]. 
+* **Wang X**, Joseph AA, Kalentev O, et al.. [High-resolution Myocardial T1 Mapping Using Single-shot Inversion recovery Fast Low-Angle SHot MRI with Radial Undersampling and Iterative Reconstruction.](https://www.birpublications.org/doi/full/10.1259/bjr.20160255) **British Journal of Radiology**, 2016; 89: 20160255. [[Open Access](https://www.birpublications.org/doi/full/10.1259/bjr.20160255)]. 
   
   **Keywords:** iterative reconstruction; radial undersampling; myocardial T1 mapping; FLASH
