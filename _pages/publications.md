@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- {% if author.googlescholar %} -->
-You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.de/citations?user=99FdJPgAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
+
 <!-- {% endif %} -->
 
 <style type="text/css">
@@ -14,7 +14,7 @@ You can also find my articles on <u><a href="{{[author.googlescholar](https://sc
   font-size: 12pt;
 }
 </style>
-
+You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.de/citations?user=99FdJPgAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
 
 
 **<font size="4.5"> Preprints </font>**
