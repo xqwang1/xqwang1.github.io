@@ -25,6 +25,12 @@ author_profile: true
 
 * **Simultaneous Multi-slice T1 Mapping within 4 seconds**
 
+    ![Alt Text](https://xqwang1.github.io/files/SMS5_T1_images.gif)
+
+  * **Radial SMS Acquisition with Inversion Preparation**; 
+  * **SMS Nonlinear Model-based Reconstruction**; 
+  
+  **Wang X**, et al., **Magnetic Resonance in Medicine** 2021; 85: 1258 - 1271. [[Open Access](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28497), [Code](https://github.com/mrirecon/sms-T1-mapping), [Data](https://zenodo.org/record/3969809)]. 
 
 
 
