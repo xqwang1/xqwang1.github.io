@@ -65,3 +65,50 @@ author_profile: true
 * **Wang X**, Joseph AA, Kalentev O, et al.. [High-resolution Myocardial T1 Mapping Using Single-shot Inversion recovery Fast Low-Angle SHot MRI with Radial Undersampling and Iterative Reconstruction.](https://www.birpublications.org/doi/full/10.1259/bjr.20160255) **British Journal of Radiology**, 2016; 89: 20160255. [[Open Access](https://www.birpublications.org/doi/full/10.1259/bjr.20160255)]. 
   
   <!-- **Keywords:** iterative reconstruction; radial undersampling; myocardial T1 mapping; FLASH -->
+
+**<font size="4.5"> Conference Contributions </font>**
+
+* **Wang X**, Cho J, Jun Y, Gagoski B, Bilgic B. [Model-based phase-difffference reconstruction for accelerated phase-based T2 mapping.](https://martinos.org/~berkin/Wang_Xiaoqing_Model_Based_Phase.pdf) ISMRM, 2023.
+
+* **Wang X**, Bilgic B, Gallichan D, Chan KS, Marques JP. [Open-source self-navigated multi-echo GRE acquisition for R2* and QSM mapping using pulseq and model-based reconstruction.](https://martinos.org/~berkin/Wang_Xiaoqing_Open.pdf) ISMRM, 2023. [[Code](https://github.com/berkinbilgic/pulseq_qsm)]. 
+
+* **Wang X**, Tan Z, Scholand N, Bilgic B, Uecker M. [Model-based reconstruction for joint estimation of T1, T2* and B0 inhomogeneity maps using single-shot inversion recovery multi-echo radial FLASH.](https://martinos.org/~berkin/Wang_Xiaoqing_Model_Based_Reconstruction.pdf) ISMRM Sedona Workshop, 2023.
+
+* Jun Y, Arefeen Y, Cho J, **Wang X**, Gee M, Gagoski B, Bilgic B. [Deep subspace reconstruction with zero-shot learning for multiparametric quantitative MRI.](https://martinos.org/~berkin/Jun.pdf) ISMRM, 2023.
+
+* Cho J, Kim TH, Berman AJL, Jun Y, **Wang X**, Gagoski B, Bilgic B. [VUDU-SAGE: Efficient T2 and T2* mapping using joint reconstruction for motion-robust, distortion-free, multi-shot, multi-echo EPI.](https://martinos.org/~berkin/Cho.pdf) ISMRM, 2023. 
+
+* Scholand N, **Wang X**, Uecker M. [Nonlinear inversion of the Bloch equations for quantitative MRI.](https://arxiv.org/abs/2302.14240) ISMRM Sedona Workshop, 2023. 
+
+* Schilling M, Blumenthal M, **Wang X**, Uecker M. Myocardial T1 mapping using single-shot inversion-recovery radial FLASH: Comparison of subspace and nonlinear
+model-based reconstruction. ISMRM, 2023. 
+
+* **Wang X**, Blumenthal M, Scholand N and Uecker M. [Model-based Reconstruction with Automatic Differentiation for Single-shot Myocardial T1 mapping using Radial FLASH with MOLLI Readout.](https://cds.ismrm.org/protected/22MPresentations/abstracts/1111.html) ISMRM, 2022.
+
+* Blumenthal M, **Wang X**, and Uecker M. [Deep subspace learning for improved T1 mapping using single-shot inversion-recovery radial FLASH.](https://submissions.mirasmart.com/ISMRM2022/itinerary/Files/PDFFiles/0241.html) ISMRM, 2022.
+
+* Luo G, Blumenthal M, **Wang X**, and Uecker M. [All you need are DICOM images.](https://submissions.mirasmart.com/ISMRM2022/itinerary/Files/PDFFiles/1510.html) ISMRM, 2022.
+
+* Blumenthal M, **Wang X**, Luo G, Tan Z, Holme HCM, Tamir J, Lustig M, and Uecker M. [Model-based Reconstruction meets Neural Networks: Non-linear Operators in BART.](https://mrirecon.github.io/bart/ismrm21.html) ISMRM, 2021. [Software Demo](https://mrirecon.github.io/bart/ismrm21.html)
+
+* Luo G, **Wang X**, Roeloffs V, Tan Z, and Uecker M. [Joint estimation of coil sensitivities and image content using a deep image prior.](https://cds.ismrm.org/protected/21MPresentations/abstracts/0280.html) ISMRM, 2021. 
+
+* **Wang X**, Rosenzweig S, Blumenthal M, Tan Z, Scholand N, and Uecker M. [Free-breathing, motion-resolved myocardial T1 mapping using inversion-recovery radial FLASH and model-based reconstruction.](https://cds.ismrm.org/protected/21MPresentations/abstracts/3598.html) ISMRM, 2021. 
+
+* Tan Z, Rosenzweig S, Wang Z, Scholand N, Holme HCM, Blumenthal M, and Uecker M. [Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction (MERLOT).](https://cds.ismrm.org/protected/21MPresentations/abstracts/0753.html) ISMRM, 2021. 
+
+* **Wang X**, Rosenzweig S, Uecker M. [Model-based reconstruction for simultaneous multi-slice myocardial T1 mapping using single-shot inversion-recovery radial FLASH.](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/2046.html) ISMRM, 2020. 
+
+* Scholand N, **Wang X**, Rosenzweig S, Holme HCM, Uecker M. [Generic Quantitative MRI using Model-Based Reconstruction with the Bloch Equations.](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/0885.html) ISMRM, 2020. 
+
+* Tan Z, Dechent P, **Wang X**, Scholand N, Voit D, Frahm J, Uecker M. [Dynamic Water, Fat, R2* and B0 Field Inhomogeneity Quantification Using Multi-Echo Multi-Spoke Radial FLASH.](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/1019.html) ISMRM, 2020. 
+
+* **Wang X**, Rosenzweig S, Scholand N, Holme HCM, and Uecker M. [Model-based reconstruction for simultaneous multi-slice T1 mapping using single-shot inversion-recovery radial FLASH.](https://cds.ismrm.org/protected/19MProceedings/PDFfiles/0314.html) ISMRM, 2019.
+
+* **Wang X**, Voit D, Roeloffs V, Uecker U, and Frahm J. [Single-shot multi-slice T1 mapping using inversion recovery radial FLASH and model-based reconstruction.](https://www.hindawi.com/journals/cmmm/2018/2560964/) ISMRM, 2018.
+
+* **Wang X**, Roeloffs V, Klosowski J, Tan Z, Voit D, Uecker M, and Frahm J. [Model-based T1 mapping with sparsity constraints using single-shot inversion-recovery radial FLASH.](https://onlinelibrary.wiley.com/doi/10.1002/mrm.26726) ESMRMB, 2017.
+
+* Roeloffs V, **Wang X**, and Frahm J. [Advances in Model-Based Reconstruction of High Resolution T1 maps.](https://cds.ismrm.org/protected/16MProceedings/PDFfiles/4236.html) ISMRM, 2017.
+
+* **Wang X**, Roeloffs V, Merboldt KD, Voit D, Schätz S, Frahm J. [Single-shot multi-slice T1 mapping at high spatial resolution–inversion-recovery FLASH with radial undersampling and iterative reconstruction.](https://cds.ismrm.org/protected/15MProceedings/PDFfiles/1670.pdf) ISMRM, 2015.
