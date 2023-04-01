@@ -13,9 +13,9 @@ author_profile: true
 </style>
 
 * **Free-breathing, Motion-resolved Myocardial T1 Mapping**
-  <p align="center">
-  ![Alt Text](https://xqwang1.github.io/files/dynamicT1.gif)
-  </p>
+        ![Alt Text](https://xqwang1.github.io/files/dynamicT1.gif)
+
+
 
         
 
