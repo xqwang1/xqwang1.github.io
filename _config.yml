@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  highlights:
+  posts:
     output: true
     permalink: /:collection/:path/
 
@@ -245,14 +245,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-    # _highlights
-  - scope:
-      path: ""
-      type: highlights
-    values:
-      layout: highlight
       author_profile: true
       share: true
 
