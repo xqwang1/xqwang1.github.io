@@ -95,15 +95,16 @@ model-based reconstruction. ISMRM, 2023.
 
 * **Wang X**, Rosenzweig S, Blumenthal M, Tan Z, Scholand N, and Uecker M. [Free-breathing, motion-resolved myocardial T1 mapping using inversion-recovery radial FLASH and model-based reconstruction.](https://cds.ismrm.org/protected/21MPresentations/abstracts/3598.html) ISMRM, 2021. 
 
-* Tan Z, Rosenzweig S, Wang Z, Scholand N, Holme HCM, Blumenthal M, and Uecker M. [Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction (MERLOT).](https://cds.ismrm.org/protected/21MPresentations/abstracts/0753.html) ISMRM, 2021. 
+* Tan Z, Rosenzweig S, **Wang X**, Scholand N, Holme HCM, Blumenthal M, and Uecker M. [Free-Breathing Liver Fat and R2* Mapping: Multi-Echo Radial FLASH and Model-based Reconstruction (MERLOT).](https://cds.ismrm.org/protected/21MPresentations/abstracts/0753.html) ISMRM, 2021. 
 
 * **Wang X**, Rosenzweig S, Uecker M. [Model-based reconstruction for simultaneous multi-slice myocardial T1 mapping using single-shot inversion-recovery radial FLASH.](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/2046.html) ISMRM, 2020. 
 
 * Scholand N, **Wang X**, Rosenzweig S, Holme HCM, Uecker M. [Generic Quantitative MRI using Model-Based Reconstruction with the Bloch Equations.](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/0885.html) ISMRM, 2020. 
 
-* Tan Z, Dechent P, **Wang X**, Scholand N, Voit D, Frahm J, Uecker M. [Dynamic Water, Fat, R2* and B0 Field Inhomogeneity Quantification Using Multi-Echo Multi-Spoke Radial FLASH.](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/1019.html) ISMRM, 2020. 
+* Tan Z, Dechent P, **Wang X**, Scholand N, Voit D, Frahm J, Uecker M. [Dynamic Water, Fat, R2* and B0 Field Inhomogeneity Quantification Using Multi-Echo Multi-Spoke Radial FLASH.](https://cds.ismrm.org/protected/20MProceedings/PDFfiles/1019.html) ISMRM, 2020. <span style="color:red">Magna Cum Laude</span>.
 
-* **Wang X**, Rosenzweig S, Scholand N, Holme HCM, and Uecker M. [Model-based reconstruction for simultaneous multi-slice T1 mapping using single-shot inversion-recovery radial FLASH.](https://cds.ismrm.org/protected/19MProceedings/PDFfiles/0314.html) ISMRM, 2019.
+
+* **Wang X**, Rosenzweig S, Scholand N, Holme HCM, and Uecker M. [Model-based reconstruction for simultaneous multi-slice T1 mapping using single-shot inversion-recovery radial FLASH.](https://cds.ismrm.org/protected/19MProceedings/PDFfiles/0314.html) ISMRM, 2019. <span style="color:red">Magna Cum Laude</span>.
 
 * **Wang X**, Voit D, Roeloffs V, Uecker U, and Frahm J. [Single-shot multi-slice T1 mapping using inversion recovery radial FLASH and model-based reconstruction.](https://www.hindawi.com/journals/cmmm/2018/2560964/) ISMRM, 2018.
 
