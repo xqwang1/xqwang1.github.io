@@ -13,7 +13,7 @@ author_profile: true
 
 </style>
 
-**<font size="4.5"> [BART Webimars](https://mrirecon.github.io/bart/webinars.html) </font>**
+**<font size="4.5"> BART Webimars </font>**
 
 * ISMRM 2021 Software Demo. **[Nonlinear Model-based Reconstruction for Quantitative MRI with BART](https://github.com/mrirecon/bart-workshop/blob/master/ismrm2021/model_based/bart_moba.ipynb)**
 
@@ -25,8 +25,8 @@ author_profile: true
 
 
 
-**<font size="4.5"> [Georg-August-Universität Göttingen](https://mrirecon.github.io/bart/webinars.html) </font>**
+**<font size="4.5"> Georg-August-Universität Göttingen </font>**
 
-* 2014. **Scientific Computing II (C++)**, Physics Faculty.
+* 2014.**Scientific Computing II (C++)**, Physics Faculty.
 
-* 2013. **Scientific Computing I (C++)**, Physics Faculty.
+* 2013.**Scientific Computing I (C++)**, Physics Faculty.
