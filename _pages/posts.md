@@ -17,7 +17,7 @@ author_profile: true
     ![Alt Text](https://xqwang1.github.io/files/dynamicT1.gif)
 
   * **T1 Calculation from Incomplete Recovery**; 
-  * **Self-Gating from Contrast-changing Acquisition**; 
+  * **Self-gating from Contrast-changing Acquisition**; 
   * **Motion-resolved Model-based Reconstruction**.
 
   **Wang X**, et al., **Magnetic Resonance in Medicine**, 2023; 89(4): 1368 - 1384. [[Open Access](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29521), [Code](https://github.com/mrirecon/motion-resolved-myocardial-T1-mapping), [Data](https://doi.org/10.5281/zenodo.5707688)]. 
