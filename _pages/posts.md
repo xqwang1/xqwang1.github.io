@@ -32,7 +32,7 @@ author_profile: true
   
   **Wang X**, et al., **Magnetic Resonance in Medicine**, 2021; 85: 1258 - 1271. [[Open Access](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28497), [Code](https://github.com/mrirecon/sms-T1-mapping), [Data](https://zenodo.org/record/3969809)]. 
 
-* **<font size="4.0">Nonlinear Model-based Reconstruction ([BART Demo](https://github.com/mrirecon/bart-workshop/blob/master/ismrm2021/model_based/bart_moba.ipynb))</font>**
+* **<font size="4.0">Nonlinear Model-based Reconstruction</font>**([BART Demo](https://github.com/mrirecon/bart-workshop/blob/master/ismrm2021/model_based/bart_moba.ipynb))
 
     ![Alt Text](https://xqwang1.github.io/files/nonlinear_moba.png)
 
