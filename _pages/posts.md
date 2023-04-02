@@ -30,8 +30,21 @@ author_profile: true
   * **Radial SMS Acquisition with Inversion Preparation**; 
   * **SMS Nonlinear Model-based Reconstruction**.
   
-  **Wang X**, et al., **Magnetic Resonance in Medicine** 2021; 85: 1258 - 1271. [[Open Access](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28497), [Code](https://github.com/mrirecon/sms-T1-mapping), [Data](https://zenodo.org/record/3969809)]. 
+  **Wang X**, et al., **Magnetic Resonance in Medicine**, 2021; 85: 1258 - 1271. [[Open Access](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28497), [Code](https://github.com/mrirecon/sms-T1-mapping), [Data](https://zenodo.org/record/3969809)]. 
 
+* **Nonlinear Model-based Reconstruction ([BART Demo](https://github.com/mrirecon/bart-workshop/blob/master/ismrm2021/model_based/bart_moba.ipynb))**
+
+    ![Alt Text](https://xqwang1.github.io/files/nonlinear_moba.png)
+
+  * **Directly Estimation of Parameter Maps from k-space**; 
+  * **Direct Regularization on Parameter Maps**;
+  * **Arbitrary Choice of Temporal Resolution**.
+  
+  **Wang X**, et al., **Philosophical Transactions of the Royal Society A**, 2021: 379 (2200), 20200196. [[Open Access](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0196), [Code](https://github.com/mrirecon/physics-recon), [Data](https://zenodo.org/record/4381986)]. 
+  
+  **Wang X**, et al., **Journal of Cardiovascular Magnetic Resonance**, 2019; 21: 60. [[Open Access](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-019-0570-3), [Code](https://github.com/mrirecon/myocardial-t1-mapping), [Data](https://zenodo.org/record/3362387)]
+  
+  **Wang X**, et al., **Magnetic Resonance in Medicine**, 2018; 79: 730 - 740. [[Free full text](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26726), [BART Demo](https://github.com/mrirecon/bart-workshop/blob/master/ismrm2021/model_based/bart_moba.ipynb)]. 
 
 
 
