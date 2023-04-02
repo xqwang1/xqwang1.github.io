@@ -16,7 +16,7 @@ author_profile: true
   
     ![Alt Text](https://xqwang1.github.io/files/dynamicT1.gif)
 
-  * **T1 Calculation from Incomplete Recovery**; 
+  * **Method for Accurate T1 Estimation from Incomplete Recovery**; 
   * **Self-gating for Contrast-changing Acquisition**; 
   * **Motion-resolved Model-based Reconstruction**.
 
