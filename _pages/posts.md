@@ -36,7 +36,7 @@ author_profile: true
 
     ![Alt Text](https://xqwang1.github.io/files/nonlinear_moba.png)
 
-  * **Directly Estimation of Parameter Maps from k-space**; 
+  * **Directly Estimation of Parameter Maps from k-space, bypassing Intermediate Image Reconstruction and Pixelwise Fitting**; 
   * **Direct Regularization on Parameter Maps**;
   * **Arbitrary Choice of Temporal Resolution**.
   
