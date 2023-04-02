@@ -37,7 +37,7 @@ author_profile: true
     ![Alt Text](https://xqwang1.github.io/files/nonlinear_moba.png)
 
   * **Direct Estimation of Parameter Maps from K-space (bypassing intermediate image reconstruction and pixel-wise fitting/matching)**; 
-  * **Direct Regularization (Sparsity Constrains) on Parameter Maps**;
+  * **Direct Regularization (e.g., Sparsity Constrains) on Parameter Maps**;
   * **Arbitrary Choice of Temporal Resolution**.
   
   **Wang X**, et al., **Philosophical Transactions of the Royal Society A**, 2021: 379 (2200), 20200196. [[Open Access](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0196), [Code](https://github.com/mrirecon/physics-recon), [Data](https://zenodo.org/record/4381986)]. 
