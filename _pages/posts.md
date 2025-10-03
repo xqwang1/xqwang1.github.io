@@ -12,6 +12,15 @@ author_profile: true
 
 </style>
 
+* **<font size="4.0">Rapid, High-resolution and Distortion-free R2* Fetal Brain Imaging </font>**
+  
+    ![Alt Text](https://xqwang1.github.io/files/SupportingInformationVideoS1.gif)
+
+  * **Motion-robust Multi-echo Radial FLASH**; 
+  * **Calibrationless Model-based Reconstruction**.
+
+  **Wang X**, et al., **Magnetic Resonance in Medicine**, 2025; 94(5): 1913 - 1929. [[Paper](https://doi.org/10.1002/mrm.30604), [Code](https://github.com/IntelligentImaging/FetalR2Star), [Data](https://github.com/IntelligentImaging/FetalR2Star/tree/main/fetal_data)]. 
+
 * **<font size="4.0">Free-breathing, Motion-resolved Myocardial T1 Mapping</font>**
   
     ![Alt Text](https://xqwang1.github.io/files/dynamicT1.gif)

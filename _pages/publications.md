@@ -17,13 +17,21 @@ author_profile: true
 <!-- You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.de/citations?user=99FdJPgAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u> -->
 
 
-**<font size="4.5"> Preprints </font>**
+<!-- **<font size="4.5"> Preprints </font>**
 
-* Jun Y, Cho J, **Wang X**, Gee M, Grant PE, Bilgic B, Gagoski B. [SSL-QALAS: Self-Supervised Learning for Rapid Multiparameter Estimation in Quantitative MRI Using 3D-QALAS.](https://arxiv.org/abs/2302.14240) Submitted. [[arxiv](https://arxiv.org/abs/2302.14240)]. 
+*  -->
 
 **<font size="4.5"> Journal Articles </font>**
 
-* Scholand N, **Wang X**, Roeloffs V, Rosenzweig S, Uecker M. [Quantitative Magnetic Resonance Imaging by Nonlinear Inversion of the Bloch Equations.](https://arxiv.org/abs/2209.08027) **Magnetic Resonance in Medicine**, In Press. [[arxiv](https://arxiv.org/abs/2209.08027), [Code](https://github.com/mrirecon/bloch-moba), [Data](https://zenodo.org/record/6992763)]. 
+* **Wang X**, Fan H, Tan Z, Vasylechko S, Yan E, Didier R, Afacan O, Uecker M, Warfield SK, Gholipour A. [Rapid, High-resolution and Distortion-free R2* Mapping of Fetal Brain using Multi-echo Radial FLASH and Model-based Reconstruction.](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.30604). **Magnetic Resonance in Medicine**, 2025;94:1913-1929. [[arXiv](https://arxiv.org/abs/2501.00256), [Code](https://github.com/IntelligentImaging/FetalR2Star), [Data](https://github.com/IntelligentImaging/FetalR2Star/tree/main/fetal_data)]
+
+* Blumenthal M, Fantinato C, Unterberg-Buchwald C, Haltmeier M, **Wang X**, Uecker M. [Self-Supervised Learning for Improved Calibrationless Radial MRI with NLINV-Net.](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30234).  **Magnetic Resonance in Medicine**, 2024;92:2447-2463. [[Open Access](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30234), [Code](https://github.com/mrirecon/nlinv-net), [Data](https://zenodo.org/records/10491940)]. 
+
+* Jun Y, Arefeen Y, Cho J, Fujita S, **Wang X**, Grant PE, Gagoski B, Jaimes C, Gee MS, Bilgic B. [Zero-DeepSub: Zero-shot Deep Subspace Reconstruction for Rapid Multiparametric Quantitative MRI using 3D-QALAS.](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.30018). **Magnetic Resonance in Medicine**, 2024;91:2459-2482. [[Code](https://github.com/yohan-jun/Zero-DeepSub)]
+
+* Jun Y, Cho J, **Wang X**, Gee M, Grant PE, Bilgic B, Gagoski B. [SSL-QALAS: Self-Supervised Learning for Rapid Multiparameter Estimation in Quantitative MRI Using 3D-QALAS.](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.29786). **Magnetic Resonance in Medicine**, 2023; 90: 2019 - 2032. [[Code](https://github.com/yohan-jun/SSL-QALAS)].
+
+* Scholand N, **Wang X**, Roeloffs V, Rosenzweig S, Uecker M. [Quantitative Magnetic Resonance Imaging by Nonlinear Inversion of the Bloch Equations.](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29664) **Magnetic Resonance in Medicine**, 2023; 90: 520 - 538. [[arxiv](https://arxiv.org/abs/2209.08027), [Code](https://github.com/mrirecon/bloch-moba), [Data](https://zenodo.org/record/6992763)]. 
 
   <!-- **Keywords:** model-based reconstruction; sensitivity analysis; state-transition matrix; nonlinear inversion; Bloch equations; quantitative MRI -->
   
