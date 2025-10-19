@@ -40,7 +40,7 @@ author_profile: true
 
 * **<font size="4.0">Simultaneous Multi-slice T1 Mapping within 4 seconds</font>**
 
-    ![Alt Text](https://xqwang1.github.io/files/SMS5_T1_images.gif)
+    <img src="https://xqwang1.github.io/files/SMS5_T1_images.gif" style="width: 70%;" />
 
   * **Radial SMS Acquisition with Inversion Preparation**; 
   * **SMS Nonlinear Model-based Reconstruction**.
