@@ -20,7 +20,9 @@ author_profile: true
 
 
   * **Motion-robust Multi-echo Radial FLASH**; 
-  * **Calibrationless Model-based Reconstruction**.
+  * **Calibrationless Model-based Reconstruction**;
+  * **Achieved within two seconds per slice**.
+
 
   **Wang X**, et al., **Magnetic Resonance in Medicine**, 2025; 94(5): 1913 - 1929. [[Paper](https://doi.org/10.1002/mrm.30604), [Code](https://github.com/IntelligentImaging/FetalR2Star), [Data](https://github.com/IntelligentImaging/FetalR2Star/tree/main/fetal_data)]. 
 
