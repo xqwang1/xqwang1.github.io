@@ -15,7 +15,7 @@ author_profile: true
 * **<font size="4.0">Rapid, High-resolution and Distortion-free R2* Fetal Brain Imaging </font>**
   
 
-    <img src="https://xqwang1.github.io/files/SupportingInformationVideoS1.gif" style="width: 125%;" />
+    <img src="https://xqwang1.github.io/files/SupportingInformationVideoS1.gif" style="width: 90%;" />
 
 
 
@@ -29,7 +29,7 @@ author_profile: true
     <!-- ![Alt Text]() -->
 
 
-     <img src="https://xqwang1.github.io/files/dynamicT1.gif" style="width: 125%;" />
+     <img src="https://xqwang1.github.io/files/dynamicT1.gif" style="width: 90%;" />
 
   * **Accurate T1 Estimation from Incomplete Recovery**; 
   * **Self-gating for Contrast-changing Acquisition**; 
