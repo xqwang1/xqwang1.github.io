@@ -49,7 +49,8 @@ author_profile: true
 
 * **<font size="4.0">Nonlinear Model-based Reconstruction</font>**([BART Demo](https://github.com/mrirecon/bart-workshop/blob/master/ismrm2021/model_based/bart_moba.ipynb))
 
-    ![Alt Text](https://xqwang1.github.io/files/nonlinear_moba.png)
+    <!-- ![Alt Text](https://xqwang1.github.io/files/nonlinear_moba.png) -->
+    <img src="https://xqwang1.github.io/files/nonlinear_moba.png" style="width: 70%;" />
 
   * **Direct Estimation of Parameter Maps from K-space (bypassing intermediate image reconstruction and pixel-wise fitting/matching)**; 
   * **Direct Regularization (e.g., Sparsity Constrains) on Parameter Maps**;
