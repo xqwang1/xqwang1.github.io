@@ -14,7 +14,10 @@ author_profile: true
 
 * **<font size="4.0">Rapid, High-resolution and Distortion-free R2* Fetal Brain Imaging </font>**
   
-    ![Alt Text](https://xqwang1.github.io/files/SupportingInformationVideoS1.gif)
+
+    <img src="https://xqwang1.github.io/files/SupportingInformationVideoS1.gif" style="width: 125%;" />
+
+
 
   * **Motion-robust Multi-echo Radial FLASH**; 
   * **Calibrationless Model-based Reconstruction**.
@@ -23,7 +26,10 @@ author_profile: true
 
 * **<font size="4.0">Free-breathing, Motion-resolved Myocardial T1 Mapping</font>**
   
-    ![Alt Text](https://xqwang1.github.io/files/dynamicT1.gif)
+    <!-- ![Alt Text]() -->
+
+
+     <img src="https://xqwang1.github.io/files/dynamicT1.gif" style="width: 125%;" />
 
   * **Accurate T1 Estimation from Incomplete Recovery**; 
   * **Self-gating for Contrast-changing Acquisition**; 
