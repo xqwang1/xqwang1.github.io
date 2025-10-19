@@ -15,7 +15,7 @@ author_profile: true
 * **<font size="4.0">Rapid, High-resolution and Distortion-free R2* Fetal Brain Imaging </font>**
   
 
-    <img src="https://xqwang1.github.io/files/SupportingInformationVideoS1.gif" style="width: 70%;" />
+    <img src="https://xqwang1.github.io/files/SupportingInformationVideoS1.gif" style="width: 60%;" />
 
 
 
