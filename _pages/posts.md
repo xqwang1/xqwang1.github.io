@@ -35,7 +35,7 @@ author_profile: true
   * **Self-gating for Contrast-changing Acquisition**; 
   * **Motion-resolved Model-based Reconstruction**.
 
-  **Wang X**, et al., **Magnetic Resonance in Medicine**, 2023; 89(4): 1368 - 1384. [[Open Access](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29521), [Code](https://github.com/mrirecon/motion-resolved-myocardial-T1-mapping), [Data](https://doi.org/10.5281/zenodo.5707688)]. 
+  **Wang X**, et al., **Magnetic Resonance in Medicine**, 2023; 89(4): 1368 - 1384. [[Open Access](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29521), [Code](https://github.com/mrirecon/motion-resolved-myocardial-T1-mapping), [Data](https://doi.org/10.5281/zenodo.5707688)]. <span style="color:red">Top 10% Downloaded Papers</span>.
 
 
 * **<font size="4.0">Simultaneous Multi-slice T1 Mapping within 4 seconds</font>**
