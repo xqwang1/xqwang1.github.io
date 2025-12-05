@@ -18,4 +18,4 @@ We are a team of people with background in MRI physics, non-Cartesian acquisitio
 
 We gratefully acknowledge the generous support of National Institute of Biomedical Imaging and Bioengineering (NIBIB) and Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)!
 
-[**We are hiring!**](https://www.ismrm.org/jobs/j08735.pdf)
+[**We are hiring: Research Fellow in non-Cartesian MRI**](https://www.ismrm.org/jobs/j08786.pdf)
