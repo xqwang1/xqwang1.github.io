@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am an Assistant Professor, leading a group at the department of Radiology, Boston Children's Hospital, Harvard Medical School. 
+I am an Assistant Professor of Radiology at Harvard Medical School, leading a group at the department of Radiology, Boston Children's Hospital. 
 
 Our lab is generally interested in developing novel data acquisition and image reconstruction methods for motion-robust MR imaging as well as their clinical applications. Specifically, we are focusing on developing advanced, motion-robust techniques for quantitative fetal, neonatal brain imaging as well as cardiovascular imaging. 
 
